@@ -1,13 +1,13 @@
 {
   "name": "easybotjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a concept bot building technology for Discord Owners to make a discord bot within minutes with 100% customization and Open Source for Bot Developers to be more handly with customization.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "OpenRooted <Max>",
+  "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
     "discord.js": "^14.7.1"
